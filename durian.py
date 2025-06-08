@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("คาดการณ์รายได้และกำไรจากการขายทุเรียน by nim")
+st.title("คาดการณ์รายได้และกำไรจากการขายทุเรียน by Nim")
 
 st.write("### ข้อมูลที่คาดการณ์")
 col1, col2 = st.columns(2)
